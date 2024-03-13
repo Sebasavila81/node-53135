@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "990387091dd3dd57992961c5",
+    "text": "my first note",
+    "date": "2024-03-13T13:43:15.123Z"
+  },
+  {
+    "id": "96ea40adfeaac7eacf63d4c0",
+    "text": "my 2nd note",
+    "date": "2024-03-13T13:43:15.131Z"
+  }
+]
